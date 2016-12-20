@@ -1,0 +1,11 @@
+{
+  "name": "JsGameEngine",
+  "version": "1.0.0",
+  "description": "A game engine written in JavaScript",
+  "main": "index.js",
+  "author": "bensmith <benhsmith13@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.2"
+  }
+}
